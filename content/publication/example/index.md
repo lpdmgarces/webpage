@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: ""
+# url_pdf: ""
 publication_types:
   - "2"
 authors:
