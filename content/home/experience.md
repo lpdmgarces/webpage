@@ -37,14 +37,26 @@ experience:
     #    * Modelling
     #    * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Assistant
+    company: UniSA STEM, University of South Australia
+    # company_url: ''
+    # company_logo: org-x
+    location: Adelaide SA, Australia
+    date_start: '2021-01-01'
+    date_end: '2020-08-31'
+    description: Investigated regression-based simulation meta-modelling in the presence of correlation and heterogeneity
+    
+  - title: Instructor
+    company: Department of Mathematics, Ateneo de Manila University
+    # company_url: ''
+    # company_logo: org-x
+    location: Quezon City, Metro Manila, Philippines
+    date_start: '2015-06-01'
+    date_end: '2018-06-30'
+    description:  |2-
+        * Taught various undergraduate and graduate courses on mathematics and financial mathematics
+        * Provided research assistance in various government-funded research projects on developing technology for mathematics instruction and impact assessment of school-based feeding programs
+        * Co-organized and participated in various departmental and university activities
 
 design:
   columns: '2'
