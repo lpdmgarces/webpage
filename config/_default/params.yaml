@@ -28,7 +28,7 @@ address:
   region: NSW
   postcode: '2052'
   country: Australia
-  # country_code: US
+  country_code: AU
 # coordinates:
   # latitude: '37.4275'
   # longitude: '-122.1697'
@@ -77,7 +77,7 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
