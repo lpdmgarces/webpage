@@ -18,7 +18,7 @@ url_video: ""
 title: A numerical approach to pricing exchange options under stochastic
   volatility and jump-diffusion dynamics
 doi: "https://doi.org/10.1080/14697688.2021.1926534"
-featured: true
+featured: false
 tags: []
 projects: []
 image:
