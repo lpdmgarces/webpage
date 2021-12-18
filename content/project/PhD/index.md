@@ -3,7 +3,7 @@ title: Exchange Options under Stochastic Volatility and Jump-Diffusion Dynamics
 summary: This is my PhD project at the University of South Australia. In this project, I derive analytical representations of European and American exchange options when the underlying asset price processes are modelled as stochastic volatility and jump-diffusion dynamics. I also propose several numerical methods to compute exchange option prices under these dynamics, as a closed-form expression for option prices is not available.
 # tags:
 # - Deep Learning
-date: "2021-12-07"
+date: "2018-07-23"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""
