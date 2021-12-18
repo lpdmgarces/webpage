@@ -22,7 +22,7 @@ date_end: "2021-12-08T11:25:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-12-08"
 
 authors: admin, Timofei Bogomolov, Belinda Chiera
 tags: []
