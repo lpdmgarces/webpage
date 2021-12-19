@@ -14,7 +14,7 @@ authors:
   - Jen Nicole V. Calimlim
   - Earl John C. Sinajon
 
-# summary: This is my PhD project at the University of South Australia. In this project, I derive analytical representations of European and American exchange options when the underlying asset price processes are modelled as stochastic volatility and jump-diffusion dynamics. I also propose several numerical methods to compute exchange option prices under these dynamics, as a closed-form expression for option prices is not available.
+summary: DOST-PCIEERD-funded project conducted by Ateneo de Manila University. Commenced 1 July 2019, ended 31 December 2021.
 
 # tags:
 # - Deep Learning
