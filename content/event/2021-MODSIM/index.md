@@ -21,6 +21,6 @@ authors:
   - Timofei Bogomolov
   - Belinda Chiera
 url_video: ""
-url_slides: ""
+url_slides: "./uploads/2021-MODSIM-github.pdf"
 url_code: ""
 ---
