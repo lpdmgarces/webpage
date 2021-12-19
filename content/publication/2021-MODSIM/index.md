@@ -22,7 +22,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Regression-based approaches for simulation meta-modelling in the presence of heterogeneity and correlation
-doi: ""
+doi: "https://doi.org/10.36334/modsim.2021.M5.garces"
 featured: false
 tags: []
 projects:
