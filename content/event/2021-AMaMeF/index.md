@@ -26,6 +26,7 @@ publishDate: "2021-06-25"
 
 authors:
   - admin
+  - Gerald HL Cheang
 tags: []
 
 # Is this a featured talk? (true/false)
