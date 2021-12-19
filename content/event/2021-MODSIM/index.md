@@ -21,6 +21,8 @@ authors:
   - Timofei Bogomolov
   - Belinda Chiera
 url_video: ""
-url_slides: "./uploads/2021-MODSIM-github.pdf"
+url_slides: ""
 url_code: ""
 ---
+
+{{< icon name="download" pack="fas" >}} Download the presentation slides {{< staticref "uploads/2021-MODSIM-github.pdf" "newtab" >}}here{{< /staticref >}}.
