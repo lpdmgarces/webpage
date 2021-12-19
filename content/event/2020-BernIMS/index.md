@@ -19,7 +19,7 @@ abstract: "We price European and American exchange options where the underlying 
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-08-24"
 date_end: "2020-08-28"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-08-24"
