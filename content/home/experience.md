@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Senior Research Associate
-    company: ARC Centre of Excellence in Population Ageing Research, UNSW Sydney
+    company: ARC Centre of Excellence in Population Ageing Research, University of New South Wales (UNSW) Sydney
     # company_url: ''
     # company_logo: org-gc
     location: Sydney NSW, Australia
