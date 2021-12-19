@@ -5,11 +5,11 @@ authors:
   - Maria Louise Antonette N. De Las Penas
   - Maria Alva Q. Aberin
   - admin
-date: "2018-07-23"
+date: "2019-05-01"
 doi: "https://doi.org/10.1080/0020739X.2018.1500654"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-07-23"
+publishDate: "2019-05-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +18,7 @@ publishDate: "2018-07-23"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Journal of Mathematical Education in Science and Technology"
+publication: "International Journal of Mathematical Education in Science and Technology, 50(5): 766-778"
 publication_short: ""
 
 abstract: This paper presents apps designed to assist students in understanding and developing proofs in geometric theorems. These technologies focus on triangle congruence, triangle similarity and properties of parallelograms. Focus group discussions and initial testing of the apps revealed that the apps offered a more engaging medium for learning proving and were capable of facilitating proof-writing skills in geometry.
