@@ -19,7 +19,8 @@ title: Representation of exchange option prices under stochastic volatility jump
 doi: "https://doi.org/10.1080/14697688.2019.1655785"
 featured: true
 tags: []
-projects: []
+projects: 
+  - PhD
 image:
   caption: ""
   focal_point: ""
