@@ -1,6 +1,6 @@
 ---
 title: Exchange Options under Stochastic Volatility and Jump-Diffusion Dynamics
-summary: (2018-07-23 to 2021-12-08) PhD Project at the University of South Australia
+summary: PhD Project at the University of South Australia. Commenced 23 July 2018, ended 18 October 2021.
 
 authors:
   - admin
