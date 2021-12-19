@@ -8,7 +8,7 @@ authors:
   - Gerald HL Cheang
   - admin
 author_notes: []
-publication: Quantitative Finance
+publication: "Quantitative Finance, 20(2): 291-310"
 summary: We specify a two-dimensional stochastic volatility and jump-diffusion model and derive representations of European and American exchange option prices under these dynamics.
 url_dataset: ""
 url_project: ""
@@ -25,9 +25,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2019-09-26
+date: 2020-02-01
 url_slides: ""
-publishDate: 2019-09-26
+publishDate: 2020-02-01
 url_poster: ""
 url_code: ""
 ---
