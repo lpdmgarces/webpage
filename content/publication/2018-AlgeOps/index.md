@@ -18,7 +18,7 @@ publishDate: "2018-12-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Journal for Technology in Mathematics Education"
+publication: "International Journal for Technology in Mathematics Education, 25(4): 21-33"
 publication_short: ""
 
 abstract: This paper presents a mobile app, AlgeOps, created to assist students in understanding addition and subtraction of integers. The design of the app amalgamated the neutralization model (based on cancelling integers of opposite signs) and the number line model to offer a more holistic representation of integers. Furthermore, since AlgeOps presents two objects, boxes and balloons, the learning objective may be extended to adding and subtracting polynomials. Pre- and post-assessments, student observations and interviews with teachers and students revealed the app can increase performance, facilitate conceptual development, and increase engagement in tasks involving integer addition and subtraction.
