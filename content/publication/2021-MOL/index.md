@@ -20,7 +20,8 @@ title: A numerical approach to pricing exchange options under stochastic
 doi: "https://doi.org/10.1080/14697688.2021.1926534"
 featured: true
 tags: []
-projects: PhD
+projects: 
+  - PhD
 image:
   caption: ""
   focal_point: ""
