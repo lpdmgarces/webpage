@@ -12,7 +12,7 @@ authors:
   - admin
   - Hanz Martin C. Cheng
 
-summary: DOST-PCIEERD-funded project conducted by Ateneo de Manila University. Commenced 1 April 2015, ended 31 January 2018.
+summary: DOST-PCIEERD-funded project conducted by the Ateneo Mathplus Resources Laboratory, Ateneo de Manila University. Commenced 1 April 2015, ended 31 January 2018.
 
 # tags:
 # - Deep Learning
