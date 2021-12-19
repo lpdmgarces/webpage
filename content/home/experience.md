@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: Full-time Appointments
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -61,3 +61,5 @@ experience:
 design:
   columns: '2'
 ---
+
+Check out my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}} for additional details on part-time appointments, courses taught, student supervision, thesis examinations, and event co-organization and participation.
