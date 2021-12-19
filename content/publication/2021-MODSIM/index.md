@@ -14,11 +14,11 @@ authors:
   - Timofei Bogomolov
   - Belinda Chiera
 author_notes: []
-publication: 24th International Congress on Modelling and Simulation
+publication: "24th International Congress on Modelling and Simulation (MODSIM2021)
 summary: We propose several approaches for building a regression-based simulation meta-model for simulators with continuous, count, and binary output metrics in the presence of correlation and heterogeneity.
 url_dataset: ""
 url_project: ""
-publication_short: MODSIM2021
+publication_short: ""
 url_source: ""
 url_video: ""
 title: Regression-based approaches for simulation meta-modelling in the presence of heterogeneity and correlation
