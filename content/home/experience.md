@@ -62,4 +62,4 @@ design:
   columns: '2'
 ---
 
-Check out my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}} for additional details on part-time appointments, courses taught, student supervision, thesis examinations, and event co-organization and participation.
+Check out my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}} for additional details on my full-time and part-time appointments such as courses taught, student supervision, thesis examinations, and event co-organization and participation.
