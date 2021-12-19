@@ -18,7 +18,7 @@ publishDate: "2015-12-31"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Southeast Asian Studies"
+publication: "Southeast Asian Studies, 4(3): 565-580"
 publication_short: ""
 
 abstract: Using panel data gathered from 16 regions of the Philippines for the period 2009-11, this paper investigates the relationship between tourism and crime. The findings of the study show that the relation between tourism and crime may largely depend on the characteristics of visitors and the types of crime. For all types of crime and their aggregate, no significant correlation between the crime rate (defined as the number of crime cases divided by population) and total tourist arrivals is found. However, a statistically significant positive relation is found between foreign tourism and robbery and theft cases as well as between overseas Filipino tourism and robbery. On the other hand, domestic tourism is not significantly correlated with any of the four types of crimes. These results, together with a strong evidence of the negative relationship between crime and the crime clearance efficiency, present much opportunity for policy intervention in order to minimize the crime externality of the country's tourism-led development strategy.
