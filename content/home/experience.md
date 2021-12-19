@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Work Experience
 subtitle: Full-time Appointments
 
 # Date format for experience
@@ -54,9 +54,9 @@ experience:
     date_start: '2015-06-01'
     date_end: '2018-06-30'
     description:  |2-
-        * Taught various undergraduate and graduate courses on mathematics and financial mathematics
-        * Provided research assistance in various government-funded research projects on developing technology for mathematics instruction and impact assessment of school-based feeding programs
-        * Co-organized and participated in various departmental and university activities
+        * Taught various undergraduate and graduate courses on mathematics, financial mathematics, and economics
+        * Provided research assistance in several government-funded research projects on developing technology for mathematics instruction and impact assessment of school-based feeding programs
+        * Co-organized and participated in departmental and university activities
 
 design:
   columns: '2'
