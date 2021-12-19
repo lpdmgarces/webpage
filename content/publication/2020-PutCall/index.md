@@ -16,7 +16,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: A put-call transformation of the exchange option problem under stochastic volatility and jump diffusion dynamics
-doi: "https://doi.org/10.1080/14697688.2019.1655785"
+doi: ""
 featured: false
 tags: []
 projects: 
