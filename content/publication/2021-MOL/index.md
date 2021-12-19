@@ -8,7 +8,7 @@ authors:
   - admin
   - Gerald HL Cheang
 author_notes: []
-publication: Quantitative Finance
+publication: "Quantitative Finance, 21(12): 2025-2054"
 summary: We consider a method of lines (MOL) approach to determine prices of European and American exchange options when underlying asset prices are modeled with stochastic volatility and jump-diffusion dynamics.
 url_dataset: ""
 url_project: ""
