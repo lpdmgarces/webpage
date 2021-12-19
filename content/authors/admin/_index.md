@@ -14,7 +14,7 @@ organizations:
   url: https://cepar.edu.au
 
 # Short bio (displayed in user profile at end of posts)
-bio: I do research on stochastic analysis and probability and their applications to finance, insurance, and actuarial valuation
+bio: I do research on stochastic analysis and probability and their applications to finance, insurance, and actuarial valuation.
 
 # Interests to show in About widget
 interests:
@@ -52,6 +52,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/len-patrick-dominic-garces/
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-2737-7348
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
