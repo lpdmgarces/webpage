@@ -14,7 +14,7 @@ authors:
   - Jen Nicole V. Calimlim
   - Earl John C. Sinajon
 
-summary: DOST-PCIEERD-funded project conducted by Ateneo de Manila University. Commenced 1 July 2019, ended 31 December 2021. Departed from the project on 31 January 2020.
+summary: DOST-PCIEERD-funded project conducted by Ateneo Mathplus Resources Laboratory, Ateneo de Manila University. Commenced 1 July 2019, ended 31 December 2021. Departed from the project on 31 January 2020.
 
 # tags:
 # - Deep Learning
