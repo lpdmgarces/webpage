@@ -13,13 +13,7 @@ location: Clark Freeport Zone, Pampanga, Philippines
   # country: United States
 
 # summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Let $\mathbf{Q}$ be the intensity matrix of a finite-state birth-death process (with $n$ states) and suppose we extract from $\mathbf{Q}$ the two principal submatrices $\mathbf{P}$ and $\mathbf{R}$ by dividing $\mathbf{Q}$ relative to an arbitrary row number $q$, with $0\leq q\leq n$. Let $\mathcal{Q}$, $\mathcal{P}$, and $\mathcal{R}$ be the sequences of eigenvalues of $\mathbf{Q}$, $\mathbf{P}$, and $\mathbf{R}$, respectively.
-
-Furthermore, we note the definition of interlacing sequences. Consider two sequences of real numbers: $\lambda_1\geq\lambda_2\geq\cdots\geq\lambda_n$ and $\mu_1\geq\mu_2\geq\cdots\geq\mu_m$ with $m<n$. The first sequence is said to interlace the first if $\lambda_i\geq\mu_i\geq\lambda_{n-m+i}$ for all $i=1,2,\dots,m$. 
-
-This presentation provides a proof for the observation that the sequence $\mathcal{Q}\backslash(\mathcal{P}\cap\mathcal{R})$ interlaces with the sequence $\mathcal{P}\cup\mathcal{R}$. Furthermore, we also show that if $\mathcal{P}\cap\mathcal{R}$ is non-empty, then each element of $\mathcal{P}\cap\mathcal{R}$ is an eigenvalue of $\mathbf{Q}$. 
-
-The method of proof mainly involves an examination of the probabilities acquired from specific movements across states and a derivation of a form for the eigenpolynomial of the concerned matrix through convolutions and the Laplace transform. Consequently, the proposition generates bounds for the eigenvalues of $\mathbf{Q}$. The main result is then compared to existing eigenvalue bounding methods and some relevant examples are explored."
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -68,5 +62,13 @@ featured: false
 # projects:
 # - PhD
 ---
+
+Let $\mathbf{Q}$ be the intensity matrix of a finite-state birth-death process (with $n$ states) and suppose we extract from $\mathbf{Q}$ the two principal submatrices $\mathbf{P}$ and $\mathbf{R}$ by dividing $\mathbf{Q}$ relative to an arbitrary row number $q$, with $0\leq q\leq n$. Let $\mathcal{Q}$, $\mathcal{P}$, and $\mathcal{R}$ be the sequences of eigenvalues of $\mathbf{Q}$, $\mathbf{P}$, and $\mathbf{R}$, respectively.
+
+Furthermore, we note the definition of interlacing sequences. Consider two sequences of real numbers: $\lambda_1\geq\lambda_2\geq\cdots\geq\lambda_n$ and $\mu_1\geq\mu_2\geq\cdots\geq\mu_m$ with $m<n$. The first sequence is said to interlace the first if $\lambda_i\geq\mu_i\geq\lambda_{n-m+i}$ for all $i=1,2,\dots,m$. 
+
+This presentation provides a proof for the observation that the sequence $\mathcal{Q}\backslash(\mathcal{P}\cap\mathcal{R})$ interlaces with the sequence $\mathcal{P}\cup\mathcal{R}$. Furthermore, we also show that if $\mathcal{P}\cap\mathcal{R}$ is non-empty, then each element of $\mathcal{P}\cap\mathcal{R}$ is an eigenvalue of $\mathbf{Q}$. 
+
+The method of proof mainly involves an examination of the probabilities acquired from specific movements across states and a derivation of a form for the eigenpolynomial of the concerned matrix through convolutions and the Laplace transform. Consequently, the proposition generates bounds for the eigenvalues of $\mathbf{Q}$. The main result is then compared to existing eigenvalue bounding methods and some relevant examples are explored.
 
 {{< icon name="download" pack="fas" >}} Download the presentation slides {{< staticref "uploads/2018-MSP.pdf" "newtab" >}}here{{< /staticref >}}.
