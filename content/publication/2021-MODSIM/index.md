@@ -25,7 +25,8 @@ title: Regression-based approaches for simulation meta-modelling in the presence
 doi: ""
 featured: false
 tags: []
-projects: []
+projects:
+  - 2021-DSTG
 image:
   caption: ""
   focal_point: ""
