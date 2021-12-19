@@ -17,7 +17,7 @@ publishDate: "2020-08-04"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Physics: Conference Series"
+publication: "Journal of Physics: Conference Series, 1593(012005): 1-8"
 publication_short: ""
 
 abstract: The paper sets forth a novel eigenvalue interlacing property across the finite-state birth-death process intensity matrix and two clearly identified submatrices as an extension of Cauchy's interlace theorem for Hermitian matrix eigenvalues. A supplemental proof involving an examination of probabilities acquired from specific movements across states and a derivation of a form for the eigenpolynomial of the matrix through convolution and Laplace transform is then presented towards uncovering a similar characteristic for the general Markov chain transition rate matrix. Consequently, the proposition generates bounds for each eigenvalue of the original matrix, easing numerical computation. To conclude, the applicability of the property to some real square matrices upon transformation is explored.
