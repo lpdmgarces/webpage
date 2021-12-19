@@ -2,7 +2,7 @@
 abstract: We propose several approaches for building a regression-based
   simulation meta-model for simulators with continuous, count, and binary output
   metrics.
-url_pdf: "https://mssanz.org.au/modsim2021/index.html"
+url_pdf: "https://doi.org/10.36334/modsim.2021.M5.garces"
 summary: We propose several approaches for building a regression-based
   simulation meta-model for simulators with continuous, count, and binary output
   metrics.
