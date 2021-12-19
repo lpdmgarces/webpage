@@ -29,7 +29,7 @@ experience:
     location: Sydney NSW, Australia
     date_start: '2021-09-01'
     date_end: ''
-    description: Development and estimation of stochastic mortality models towards actuarial applications and insurance product design as part of CEPAR Stream 4: Sustainable Well-being in Later Life
+    description: 'Development and estimation of stochastic mortality models towards actuarial applications and insurance product design as part of CEPAR Stream 4: Sustainable Well-being in Later Life'
     # description: |2-
     #    Responsibilities include:
     #    
