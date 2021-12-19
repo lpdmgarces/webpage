@@ -23,12 +23,12 @@ The analytical results presented here lay the foundation for a future numerical 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-12-19"
+date: "2019-12-19"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-12-19"
+publishDate: "2019-12-19"
 
 authors:
   - admin
