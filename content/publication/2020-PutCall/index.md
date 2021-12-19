@@ -8,7 +8,7 @@ authors:
   - admin
   - Gerald HL Cheang
 author_notes: []
-publication: ""
+publication: "arXiv"
 summary: We apply the put-call transformation technique proposed by Bjerskund and Stensland (1993) to obtain integral representations of European and American exchange option prices under stochastic volatility and jump diffusion dynamics
 url_dataset: ""
 url_project: ""
