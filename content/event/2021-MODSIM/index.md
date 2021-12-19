@@ -23,6 +23,9 @@ authors:
 url_video: ""
 url_slides: ""
 url_code: ""
+
+projects:
+  - 2021-DSTG
 ---
 
 {{< icon name="download" pack="fas" >}} Download the presentation slides {{< staticref "uploads/2021-MODSIM-github.pdf" "newtab" >}}here{{< /staticref >}}.
