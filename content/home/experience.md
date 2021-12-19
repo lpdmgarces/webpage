@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Senior Research Associate
     company: ARC Centre of Excellence in Population Ageing Research, University of New South Wales (UNSW) Sydney
-    # company_url: ''
+    company_url: 'https://www.cepar.edu.au/'
     # company_logo: org-gc
     location: Sydney NSW, Australia
     date_start: '2021-09-01'
@@ -39,7 +39,7 @@ experience:
         
   - title: Research Assistant
     company: UniSA STEM, University of South Australia
-    # company_url: ''
+    company_url: 'https://www.unisa.edu.au/about-unisa/academic-units/stem/'
     # company_logo: org-x
     location: Adelaide SA, Australia
     date_start: '2021-01-01'
@@ -48,16 +48,16 @@ experience:
     
   - title: Online Tutor (Casual Academic)
     company: UniSA Online, University of South Australia
-    # company_url: ''
+    company_url: 'https://online.unisa.edu.au/'
     # company_logo: org-x
     location: Adelaide SA, Australia
     date_start: '2020-01-01'
     date_end: '2021-04-30'
-    description: Provided instructional support statistics, data visualization, and predictive analytics courses in the online Data Analytics undergraduate program offered by UniSA Online
+    description: Provided instructional support in statistics, data visualization, and predictive analytics courses in the online Data Analytics undergraduate program offered by UniSA Online
     
   - title: Tutor and Computer Practical Supervisor (Casual Academic)
     company: UniSA STEM, University of South Australia
-    # company_url: ''
+    company_url: 'https://www.unisa.edu.au/about-unisa/academic-units/stem/'
     # company_logo: org-x
     location: Adelaide SA, Australia
     date_start: '2019-02-01'
@@ -66,7 +66,7 @@ experience:
     
   - title: Instructor
     company: Department of Mathematics, Ateneo de Manila University
-    # company_url: ''
+    company_url: 'https://ateneo.edu/ls/sose/mathematics/mathdept'
     # company_logo: org-x
     location: Quezon City, Metro Manila, Philippines
     date_start: '2015-06-01'
@@ -79,7 +79,7 @@ experience:
 
   - title: Affiliated Faculty Member
     company: Department of Economics, Ateneo de Manila University
-    # company_url: ''
+    company_url: 'http://ateneo.edu/ls/soss/economics'
     # company_logo: org-x
     location: Quezon City, Metro Manila, Philippines
     date_start: '2015-08-01'
@@ -88,7 +88,7 @@ experience:
     
   - title: Lecturer (Part-Time Position)
     company: Department of Mathematics, Ateneo de Manila University
-    # company_url: ''
+    company_url: 'https://ateneo.edu/ls/sose/mathematics/mathdept'
     # company_logo: org-x
     location: Quezon City, Metro Manila, Philippines
     date_start: '2014-06-01'
