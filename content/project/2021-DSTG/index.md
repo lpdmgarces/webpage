@@ -8,7 +8,7 @@ authors:
   - admin
   - Junia Tiong
 
-# summary: This is my PhD project at the University of South Australia. In this project, I derive analytical representations of European and American exchange options when the underlying asset price processes are modelled as stochastic volatility and jump-diffusion dynamics. I also propose several numerical methods to compute exchange option prices under these dynamics, as a closed-form expression for option prices is not available.
+summary: ORnet collaboration project between the Defence Science and Technology Group at the University of South Australia. Commenced 1 January 2021, ended 30 June 2021.
 
 # tags:
 # - Deep Learning
