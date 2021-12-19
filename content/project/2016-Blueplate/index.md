@@ -11,12 +11,12 @@ authors:
   - Joselito T. Sescon
   - Anthony R. Zosa
 
-summary: Impact evaluation project conducted by the Community Welfare, Wellness and Well-being (CW3) Laboratory, Ateneo de Manila University and funded by the University Research Council of Ateneo de Manila University. Commenced 1 June 2016, ended 31 May 2017. 
+summary: Impact evaluation project conducted by the Community Welfare, Wellness and Well-being (CW3) Laboratory, Ateneo de Manila University and funded by the University Research Council of Ateneo de Manila University. Commenced 1 August 2016, ended 31 May 2017. 
 
 # tags:
 # - Deep Learning
 
-date: "2021-01-01"
+date: "2016-08-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.facebook.com/Community-Welfare-Wellness-and-Well-being-Laboratory-276185276417036/"
