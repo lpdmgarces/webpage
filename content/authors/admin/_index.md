@@ -77,3 +77,5 @@ My research interests lie within the field of financial and actuarial mathematic
 I obtained my PhD from the University of South Australia in 2021. My PhD research focused on the use of stochastic volatility and jump-diffusion models and formulating correspoding numerical methods for option pricing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+{{< icon name="user-tie" pack="fas" >}} See also my [UNSW Staff Webpage](https://www.unsw.edu.au/staff/len-patrick-garces).
