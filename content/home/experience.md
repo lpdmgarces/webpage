@@ -43,7 +43,7 @@ experience:
     # company_logo: org-x
     location: Adelaide SA, Australia
     date_start: '2021-01-01'
-    date_end: '2020-08-31'
+    date_end: '2021-08-31'
     # description: Investigated regression-based simulation meta-modelling in the presence of correlation and heterogeneity
     
   - title: Online Tutor (Casual Academic)
