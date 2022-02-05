@@ -47,4 +47,4 @@ Finally, we propose a method of lines (MOL) based approach to solve the option p
 - **Principal Supervisor:** [Dr Gerald Cheang](https://people.unisa.edu.au/Gerald.Cheang)
 - **Associate Supervisors:** [A/Prof John van der Hoek](https://people.unisa.edu.au/John.vanderHoek) and [A/Prof Anatoli Torokhti](https://people.unisa.edu.au/Anatoli.Torokhti))
 - **Examiners:** [A/Prof Jonathan Ziveyi](https://www.unsw.edu.au/staff/jonathan-ziveyi) and [Prof Wolfgang Runggaldier](https://www.math.unipd.it/~runggal/)
-- **Scholarship/Funding:** My PhD studies was generously supported by an Australian Government Research Training Program Scholarship (RPTi). I am also grateful for the the financial support provided by the Loyola Schools of Ateneo de Manila University.
+- **Scholarship/Funding:** My PhD was generously supported by an Australian Government Research Training Program Scholarship (RPTi). I am also grateful for the the financial support provided by the Loyola Schools of Ateneo de Manila University.
