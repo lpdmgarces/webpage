@@ -24,5 +24,3 @@ url_code: ""
 projects:
   - 2022-AffineMortalityModels
 ---
-
-# {{< icon name="download" pack="fas" >}} Download the presentation slides {{< staticref "uploads/2021-MODSIM-github.pdf" "newtab" >}}here{{< /staticref >}}.
