@@ -6,12 +6,12 @@ title: Len Patrick Dominic M. Garces
 superuser: true
 
 # Role/position/tagline
-role: Senior Research Associate
+role: Lecturer (Quantitative Finance)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ARC Centre of Excellence in Population Ageing Research, UNSW Sydney
-  url: https://cepar.edu.au
+- name: University of Technology Sydney (UTS), School of Mathematical and Physical Sciences
+  url: https://www.uts.edu.au/about/faculty-science/school-mathematical-and-physical-sciences
 
 # Short bio (displayed in user profile at end of posts)
 bio: I do research on stochastic analysis and probability and their applications to finance, insurance, and actuarial valuation.
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:l.garces@unsw.edu.au
+  link: mailto:LenPatrickDominic.Garces@uts.edu.au
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com.au/citations?user=fohpNBcAAAAJ&hl=en&inst=7289110936595769722
@@ -73,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a Senior Research Associate at the ARC Centre of Excellence in Population Ageing Research (CEPAR), UNSW Business School, where I investigates continuous-time stochastic mortality models and their applications to actuarial valuation.
+I am a Lecturer at the School of Mathematical and Physical Sciences and the Program Director of the Master of Quantitative Finance programs offered by the School.
 
 My research interests lie within the field of financial and actuarial mathematics, primarily on the applications of probability theory and stochastic analysis to tackle financial and actuarial problems (e.g. financial or insurance risk modelling and management, asset price modelling, term structure modelling, pricing and hedging financial derivatives) and the development of numerical and statistical methods to solve these problems.
 
@@ -81,4 +81,4 @@ I obtained my PhD from the University of South Australia in 2021. My PhD researc
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-{{< icon name="user-tie" pack="fas" >}} See also my [UNSW Staff Webpage](https://www.unsw.edu.au/staff/len-patrick-garces).
+{{< icon name="user-tie" pack="fas" >}} See also my [UTS Staff Webpage](https://profiles.uts.edu.au/LenPatrickDominic.Garces/about).
