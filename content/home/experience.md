@@ -22,13 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Lecturer in Quantitative Finance
+    company: School of Mathematical and Physical Sciences, University of Technology Sydney (UTS)
+    company_url: 'https://www.uts.edu.au/about/faculty-science/school-mathematical-and-physical-sciences'
+    location: Sydney NSW, Australia
+    date_start: '2023-04-03'
+    date_end: ''
+
   - title: Senior Research Associate
     company: ARC Centre of Excellence in Population Ageing Research, University of New South Wales (UNSW) Sydney
     company_url: 'https://www.cepar.edu.au/'
     # company_logo: org-gc
     location: Sydney NSW, Australia
     date_start: '2021-09-01'
-    date_end: ''
+    date_end: '2023-03-31'
     # description: 'Development and estimation of stochastic mortality models towards actuarial applications and insurance product design as part of CEPAR Stream 4: Sustainable Well-being in Later Life'
     # description: |2-
     #    Responsibilities include:
