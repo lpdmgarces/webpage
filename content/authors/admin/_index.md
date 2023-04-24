@@ -6,7 +6,7 @@ title: Len Patrick Dominic M. Garces
 superuser: true
 
 # Role/position/tagline
-role: Lecturer (Quantitative Finance)
+role: Lecturer and Program Director (Postgraduate Quantitative Finance Courses)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -73,11 +73,11 @@ email: ""
 highlight_name: true
 ---
 
-I am a Lecturer at the School of Mathematical and Physical Sciences, University of Technology Sydney (UTS) and the Program Director of the Master of Quantitative Finance programs offered by the School.
+I am a Lecturer at the School of Mathematical and Physical Sciences, University of Technology Sydney (UTS) and the Program Director of the Postgraduate Quantitative Finance courses offered by the School. I am also an Associate Investigator at the [ARC Centre of Excellence in Population Ageing Research (CEPAR)](https://www.cepar.edu.au/).
 
 My research interests lie within the field of financial and actuarial mathematics, primarily on the applications of probability theory and stochastic analysis to tackle financial and actuarial problems (e.g. financial or insurance risk modelling and management, asset price modelling, term structure modelling, pricing and hedging financial derivatives) and the development of numerical and statistical methods to solve these problems.
 
-I obtained my PhD from the University of South Australia in 2021. My PhD research focused on the use of stochastic volatility and jump-diffusion models and formulating correspoding numerical methods for option pricing.
+I obtained my PhD from the University of South Australia in 2021. My PhD research focused on the use of stochastic volatility and jump-diffusion models and formulating corresponding numerical methods for option pricing.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
 
